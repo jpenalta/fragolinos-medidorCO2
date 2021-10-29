@@ -3,7 +3,7 @@ Medidor de CO2 para a aula realizado polo Club de Ciencias do IES Antonio Fragua
 
 <img src="./imaxes/prototipo.jpg" alt="prototipo" style="width:200px;"/>
 
-## Explicación do proxecto
+## Descrición do proxecto
 Este dispositivo foi deseñado para ser montado polos alumnos do Club de Ciencias. Os obxectivos era por unha parte introducir aos alumnos no mundo IOT, e por outro dispoñer dun medidor da calidade do aire das aulas.
 
 O sensor [CSS811](https://www.sciosense.com/products/environmental-sensors/ccs811-gas-sensor-solution/) utilizado non mide CO2, se non [VOC](https://es.wikipedia.org/wiki/Compuestos_org%C3%A1nicos_vol%C3%A1tiles), e realiza unha estimación do CO2 a partir desas medicións. Non é realmente o sensor ideal, xa que resulta moi sensible a compostos químicos, como productos de limpeza ou colonias, pero a relación calidade-precio era un requisito. Un sensor CCS811 pódese atopar entre 10 e 15 Euros, mentras que un sensor de maís calidade non baixa dos 30 Euros.
